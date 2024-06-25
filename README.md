@@ -1,6 +1,8 @@
 
 #  Glassdoor Scraper
 
+[Try it out now for free on Apify!](https://apify.com/radeance/glassdoor-jobs-scraper)
+
 ## ⌲ Job & Company Data Scraper
 
 ![Glassdoor Job Search Plattform](https://i.imgur.com/5VzbtTB.png)
@@ -11,6 +13,9 @@ Our premium Glassdoor Jobs Scraper enables you to extract millions of job offeri
 
  - All job listings including key details: job id, posted date, title, category, job type, experience, description, location, salary range, and skills.
 - Detailed company profiles including: company ID, name, headquarters, year founded, size, industry, sector, overall rating, CEO rating, employee reviews, and revenue.
+
+| Try our other scrapers ► | [Wellfound Premium Job Scraper](https://apify.com/radeance/wellfound-job-listings-scraper) | [Similarweb Scraper](https://apify.com/radeance/similarweb-scraper)| [Tesco UK Scraper](https://apify.com/radeance/tesco-scraper)
+|----------------------------|-----------------------------|-----------------------------|-----------------------------|
 
 
 ### How you could use this job and company data
@@ -43,23 +48,10 @@ These use cases demonstrate the versatility and value of the scraper in providin
 
 If you are using this actor on the Apify platform, the UI Input interface is fairly self-explanatory. You can find detailed documentation on the scraper page on Apify.
 
-#### Supported Glassdoor Domains
-We currently support all Glassdoor domains.
 
 
 ### Output ⬆
 
-#### Overview Table 🔎
-![Glassdoor Scraper Output Overview](https://i.imgur.com/eFFQoch.png)
-
-#### Jobs Table 🧑🏽‍🔬
-![Glassdoor Scraper Output Overview](https://i.imgur.com/XKdlIYi.png)
-
-#### Company Table 🏦
-![Glassdoor Scraper Output Overview](https://i.imgur.com/Fh4b19K.png)
-
-#### Ratings Table 🏅
-![Glassdoor Scraper Output Overview](https://i.imgur.com/yQpJhAt.png)
 
 #### Detailed Output Fields
 - **Job Details:**
@@ -226,3 +218,7 @@ If you have any technical feedback or encounter any bugs with the Glassdoor Scra
 You can also contact us directly for custom integrations or project use cases at business@radeance.com
 
 Thank you and happy scraping!
+
+<br>
+
+[Try it out now for free on Apify!](https://apify.com/radeance/glassdoor-jobs-scraper)
